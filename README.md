@@ -1,1 +1,1 @@
-My first README
+Practicing shell commands
